@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "title": "Fate loves determination",
+        "image": "https://media.istockphoto.com/photos/young-man-working-from-home-creative-professional-have-meeting-online-picture-id1356122303?b=1&k=20&m=1356122303&s=170667a&w=0&h=RjZ3ylCZshkxkEu-snp_18SqM0--EhM2w8HkKtiJGi0=",
+        "description": "Web developer at work. Creating apps. Man coding on the laptop. Software programming. IT sphere."
+      },
+      {
+        "id": 2,
+        "title": "Conference call and meetings",
+        "image": "https://media.istockphoto.com/photos/crowded-video-screen-briefing-brainstorm-virtual-meeting-of-work-picture-id1339427833?s=612x612",
+        "description": "Conference call, shared screen, portraits of diverse employees. Crowded video screen, briefing, brainstorm, virtual meeting of multiracial work team, new online platform for video connection"
+      },
+      {
+        "id": 3,
+        "title": "Group work",
+        "image": "https://media.istockphoto.com/photos/multi-ethnic-business-people-having-business-meeting-picture-id1390560381",
+        "description": "Group Of Multi Ethnic Business Team Sitting Together At Workplace In Modern Office"
+      },
+      {
+        "id": 4,
+        "title": "Happy life style",
+        "image": "https://media.istockphoto.com/photos/multi-ethnic-guys-and-girls-taking-selfie-outdoors-with-backlight-picture-id1368965646?s=612x612",
+        "description": "Multi ethnic guys and girls taking selfie outdoors with backlight - Happy life style friendship concept on young multicultural people having fun day together in Barcelona - Bright vivid filter"
+      },
+      {
+        "id": 5,
+        "title": "AI artificial intelligence",
+        "image": "https://media.istockphoto.com/photos/business-investment-and-ai-artificial-intelligence-data-analysis-picture-id1332827275?s=612x612",
+        "description": "Business investment and AI artificial intelligence data analysis technology. Businessman and robot future investor, stock market, forex, and crypto currency finance investment."
+      },
+      {
+        "id": 6,
+        "title": "Human resources",
+        "image": "https://media.istockphoto.com/photos/businessman-hold-circle-of-network-structure-hr-human-resources-picture-id1334591613?s=612x612",
+        "description": "Businessman hold circle of network structure HR - Human resources. Business leadership concept. Management and recruitment. Social network. Different people."
+      }
+    ]
+  }
